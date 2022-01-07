@@ -1,0 +1,6 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedGenerator\bin\Release\GuildedGenerator.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedGenerator\bin\Release\GuildedGenerator.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedGenerator\obj\Release\GuildedGenerator.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedGenerator\obj\Release\GuildedGenerator.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedGenerator\bin\Release\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GuildedGenerator\obj\Release\GuildedGenerator.csproj.CopyComplete

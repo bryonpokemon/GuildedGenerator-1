@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9aa3c803-216e-4731-a677-77353b3d351d": {
+      "ProjectGuid": "9aa3c803-216e-4731-a677-77353b3d351d",
+      "DisplayName": "GuildedGenerator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
